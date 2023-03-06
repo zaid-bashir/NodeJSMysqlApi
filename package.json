@@ -1,17 +1,14 @@
 {
-  "name": "codingrockers.nodemysqlapi.dev",
+  "name": "nodejsmysql.dev",
   "version": "1.0.0",
-  "description": "A Simple Backend Service Using Node JS MySQL",
+  "description": "Backend Service For Notes API Node JS MySQL Api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git remote add origin https://github.com/zaid-bashir/NodeJSMysqlApi.git"
-  },
   "keywords": [
-    "NodeJS",
+    "Node",
+    "JS",
     "MySQL"
   ],
   "author": "Zaid Bashir",
